@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Roboto+Condensed&family=Signika:wght@500&family=Ubuntu:wght@700&display=swap");
+body {
+  font-family: "Kanit", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
+  font-family: "Signika", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  background-color: rgb(199, 199, 199);
+  margin: 0;
+}
+.col {
+  background-color: white;
+  width: 800px;
+  height: 40px;
+  border-radius: 20px;
+  margin-left: 220px;
+  margin-top: 20px;
+  transition: height 1s;
+}
+.col:hover{
+  height: 100px;
+  transition: height 1s;
+}
+.img34{
+  height: 100px;
+}
+.log{
+    position: fixed;
+    background-color: white;
+    width: 100px;
+    height: 1000px;
+    display: block;
+}
+.b1{
+  background-color: white ;
+  border: 1px solid white;
+  width: 80px;
+}
+.LK{
+  height: 50px;
+  margin-left: 18px;
+  margin-top: 15px;
+}
+.LK:hover{
+  height: 60px;
+  margin-left: 15px;
+  margin-right: 18px;
+  transition: margin-left 14s 11s;
+}
+.xc{
+  width: 200px;
+}
+.tr{
+  width: 10px;
+}
+.addB{
+  margin-left: 230px;
+  background-color: green;
+  border-radius: 10px;
+  border: 1px solid green;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.addB:hover{
+  background-color: grey;
+  border: 1px solid black;
+}
